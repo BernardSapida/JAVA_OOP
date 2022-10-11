@@ -1,0 +1,34 @@
+OOP
+
+1) Inheritance -> Extends
+2) Encapsulation -> Private
+3) Polymorphism -> 1 to Many (extends)
+4) Abstraction -> 
+    cannot be instantiated
+    variable can be modified/manipulated
+    abstract method should define on extended class
+
+Java Assignment
+
+OOP: Encapsulation (1 Java Class)
+OOP: Abstraction 
+        2 Java Class
+        Main Class => Extends abstract class
+        Abstact Class => Variables & Method
+
+iPhone Products:
+1) iPhone 11 -> 34,490
+2) iPhone 12 -> 44,990
+3) iPhone 13 -> 52,440
+Enter a number of product: 1
+
+Discounts:
+1) DSC00 - 0%
+2) DSC01 - 10%
+3) DSC02 - 20%
+4) DSC03 - 30%
+Enter a discount code: 1
+
+Your total bill is: Php 34,490
+
+
